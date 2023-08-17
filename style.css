@@ -1,0 +1,16 @@
+html,
+body {
+  font-family: "Lugrasimo", cursive;
+  font-family: "Rubik Wet Paint", cursive;
+  font-family: "Signika Negative", sans-serif;
+}
+
+@media (max-width: 575.98px) {
+  body {
+    background-color: bisque;
+  }
+
+  #content p {
+    font-size: 18px;
+  }
+}
